@@ -1,3 +1,7 @@
 .ipynb_checkpoints
-data
-keras.io/PetImages
+crop_detection/crop_detection
+theclever/data
+keras_image_classifier/PetImages
+keras_image_classifier/kagglecatsanddogs_5340.zip
+*.keras
+*.jpg
